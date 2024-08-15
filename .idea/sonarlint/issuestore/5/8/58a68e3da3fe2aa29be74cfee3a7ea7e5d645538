@@ -1,0 +1,16 @@
+
+k
+java:S1604"(Make this anonymous inner class a lambda(Œ¶¯È8×æ¹º•2J$9bdbefd9-2510-431a-aeb2-a7b2421b8a03
+p
+java:S16040"(Make this anonymous inner class a lambda(Ú”ƒ×þÿÿÿÿ8Øæ¹º•2J$740a4567-2bd2-496d-8952-daa4a6e5e8b0
+p
+java:S1604D"(Make this anonymous inner class a lambda(©°©äüÿÿÿÿ8Øæ¹º•2J$05d4d94a-8d02-4fc6-9107-3fc21aa1a95e
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŠÍ¼â8Ûæ¹º•2J$0f46fc2e-13c3-43db-a263-f0f61d0f7ee6
+r
+java:S1197"*Move the array designators [] to the type.(¡þÏÖøÿÿÿÿ8èæ¹º•2J$51ca8ff9-9267-4e7b-a82a-0e69766db75c
+~	java:S125$"<This block of commented-out lines of code should be removed.(®´ö8ìæ¹º•2J$b05cd6e4-c766-44ab-9065-64ec207b1cef
+m	java:S106&"+Replace this use of System.out by a logger.(Œ’­8íæ¹º•2J$0baaff1e-4f02-4881-b1ea-93b509b1cf35
+~	java:S1258"<This block of commented-out lines of code should be removed.(ñºïØ8ðæ¹º•2J$faeb5be6-01bc-42f3-9eaa-9627a1d2dccf
+r	java:S106:"+Replace this use of System.out by a logger.(çùýìþÿÿÿÿ8ñæ¹º•2J$f1c730fd-0aae-4fb9-a2c3-d5864dcd7338
+ƒ	java:S125T"<This block of commented-out lines of code should be removed.(ÿÕ¦¶üÿÿÿÿ8ôæ¹º•2J$cc1b16bf-ee8b-4519-a459-c5a519c50cce
+r	java:S106X"+Replace this use of System.out by a logger.( Æýµÿÿÿÿÿ8ôæ¹º•2J$eef36db5-7abb-4950-9a8c-620ae0e35a98

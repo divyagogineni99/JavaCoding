@@ -1,0 +1,13 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ®£ãıÿÿÿÿ8Ğò°ü1J$138c11ae-71e1-40f0-9101-387c0ba2915f
+­
+java:S4165 "jRemove this useless assignment; "resultString" already holds the assigned value along all execution paths.(¶÷ÌÒ8–Ğò°ü1J$d38e29e2-c948-4974-8093-fc7d43f57b1f
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ûê…œùÿÿÿÿ8Îñ“¶ü1J$dbedb224-d1c4-49ac-a020-a730353c41d4
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ş™¶Áúÿÿÿÿ8ÉÙ“¶ü1J$fdd73ec8-9af3-4617-a64f-712618b31da7
+m	java:S106!"+Replace this use of System.out by a logger.(‡èœ¹8˜Ğò°ü1J$6aa2ef11-24f6-44e1-bd10-78fef71c1d2f
+r	java:S106+"+Replace this use of System.out by a logger.(¯›¢¿şÿÿÿÿ8šĞò°ü1J$48c7a3ef-a68f-483d-9118-f1c7df696fb1
+h
+java:S2129." Remove this "String" constructor(¥Ì–Äùÿÿÿÿ8šĞò°ü1J$7ed69f9a-c7cb-437f-b572-f5a5e5a29aeb
+m	java:S106/"+Replace this use of System.out by a logger.(íåÈŞ8¯¿ù°ü1J$8cfdc37e-675e-4954-bc79-ce6299c54255
+ƒ	java:S1250"<This block of commented-out lines of code should be removed.(İÍò”úÿÿÿÿ8â”œ±ü1J$ac7ee39b-358d-4391-b974-f24f5726b3fd
+ƒ	java:S1256"<This block of commented-out lines of code should be removed.(˜›‰åùÿÿÿÿ8ÃËö°ü1J$c22192f3-6c0b-40b4-a877-fbe0d31357ae

@@ -1,0 +1,15 @@
+
+œ
+java:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(¡š¡İ8¸³€îù1J$8dc5215f-3a27-4770-b602-d135547ff1fe
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥“Ñì8å¢Õìù1J$8403e3d6-bfc7-4c5b-8ab6-67ff7ff289c8
+‚
+java:S1854":Remove this useless assignment to local variable "output".(ÕÏ€áøÿÿÿÿ8ğ¢Õìù1J$73765167-2b7e-4094-960a-f49d7ee34e1e
+s
+java:S1481"+Remove this unused "output" local variable.(ÕÏ€áøÿÿÿÿ8ñ¢Õìù1J$92e3bddf-1c52-43fa-b163-0b09546cd921
+~	java:S125"<This block of commented-out lines of code should be removed.(ßØ²Ã8ñ¢Õìù1J$cf69cbdd-bcd8-4eaf-9ee9-0d40d99fc707
+m	java:S1063"+Replace this use of System.out by a logger.(ØîÔ‘8±’áíù1J$163a66ce-cd63-4ac5-8105-896adf404d53
+r	java:S1065"+Replace this use of System.out by a logger.(±ŒÉÆûÿÿÿÿ8ŸŞáíù1J$51b5516d-26d3-466d-931d-eb582d3511f9
+f
+java:S1128"$Remove this unused import 'java.io'.(¬›ãD8Ì³€îù1J$1a210b8b-1d18-44f9-8e80-8dc1b824c6d5
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ì³€îù1J$39975ddc-7943-4981-beef-04949efb302c

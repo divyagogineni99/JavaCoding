@@ -1,0 +1,31 @@
+
+”
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(›¯’gJ$6081ace2-3370-4558-8b91-86b1d2dded3c
+¢
+java:S1488Y"fImmediately return this expression instead of assigning it to the temporary variable "reverseStrings".(¦ĞóçJ$27a27804-44fe-4574-9bc8-9e3882d5c15d
+¦
+java:S1488d"eImmediately return this expression instead of assigning it to the temporary variable "updatedString".(ÏûÏ øÿÿÿÿJ$0b385d6c-0f8a-44a5-8eb6-253593854e08
+¢
+java:S1488s"fImmediately return this expression instead of assigning it to the temporary variable "reverseStrings".(ìº¸³J$779f22cf-de0b-4d98-b86a-b2122f6ee133
+ 
+java:S1488…"cImmediately return this expression instead of assigning it to the temporary variable "reverseName".(ÿ½ÔäJ$06fe063a-02f9-4fc2-8731-b8fc93a230ac
+‹
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(›¯’gJ$4e33fb2d-c475-4cea-a5fb-5fdec714682e
+y
+java:S1854"8Remove this useless assignment to local variable "name".(°°çıÿÿÿÿJ$c4d958b4-3214-44ba-8de8-7bbaed8f0638
+j
+java:S1481")Remove this unused "name" local variable.(°°çıÿÿÿÿJ$ffae6d39-4f2e-4fb6-bcb9-ca89884d3fb0
+w	java:S125"<This block of commented-out lines of code should be removed.(««¸J$ed80356c-fdfa-4f00-bf04-ac8a884b991b
+k	java:S106"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿJ$4f76266c-d8e9-448e-b478-932844a36d40
+w	java:S125"<This block of commented-out lines of code should be removed.( ßŞJ$cf84c04a-a5be-4593-bb53-fa0d0e57c550
+k	java:S106"+Replace this use of System.out by a logger.(‰É†şÿÿÿÿJ$5e8590e5-ceb4-4fea-ae3f-78831dda5c42
+k	java:S106"+Replace this use of System.out by a logger.(‰É†şÿÿÿÿJ$83717985-1ab3-4025-9b32-8ee0eb742f62
+}
+java:S1126""AReplace this if-then-else statement by a single return statement.(ÒîÔĞJ$9348b53b-d6e1-49fe-807f-3d6eec8e9a3d
+‚
+java:S11264"AReplace this if-then-else statement by a single return statement.(£œéÉşÿÿÿÿJ$1727dd08-918c-4f1e-8471-137c97e8770e
+‚
+java:S1126H"AReplace this if-then-else statement by a single return statement.(£œéÉşÿÿÿÿJ$e0fd675b-019a-4356-bb6e-da46079e0189
+‰	java:S100^"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÁß§J$0131f5d1-34c8-4a79-b259-0d22f4df1633
+c
+java:S1659|""Declare "last" on a separate line.(ºóÇ‡ùÿÿÿÿJ$b4d09280-de6b-4a6b-8973-61eee38a639a

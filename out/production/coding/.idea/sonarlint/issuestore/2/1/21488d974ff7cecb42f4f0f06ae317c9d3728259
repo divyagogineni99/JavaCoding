@@ -1,0 +1,20 @@
+
+¡
+java:S1488:"^Immediately return this expression instead of assigning it to the temporary variable "newMax".(ñÓ‹È8ü†œö1J$f0e4f91a-1059-4d59-9708-a5bf701fa442
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ®£ãıÿÿÿÿ8ÿ†œö1J$b4b2e759-ccca-42ff-8964-2317ba6ceb7d
+Š
+java:S3973H"GUse indentation to denote the code conditionally executed by this "if".(ËäÙ¾8€‚†œö1J$4ef6a20c-aaf8-4aaa-b727-d2c74f3c2f02
+
+java:S3973J"GUse indentation to denote the code conditionally executed by this "if".(úïÆäÿÿÿÿÿ8€‚†œö1J$34ad3b7e-2952-4483-b393-a40bd977750a
+Ï
+java:S2681J"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(úïÆäÿÿÿÿÿ8ƒ‚†œö1J$3bff12db-a263-4b37-9381-9dc3e0d1115d
+¾
+java:S2681T"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(›Ûµş8„‚†œö1J$82efec41-f8a9-4206-a0a9-91db9def070a
+r	java:S106"+Replace this use of System.out by a logger.(È×Ğ¬ûÿÿÿÿ8à‚†œö1J$d7ec2e99-fe07-448d-80cd-2b026a89c487
+r	java:S106"+Replace this use of System.out by a logger.(ÕÉÁ×øÿÿÿÿ8á‚†œö1J$0cc0b19c-a406-448c-a42c-3e7d4b993d6b
+r	java:S106"+Replace this use of System.out by a logger.(Ì¯¼¢üÿÿÿÿ8á‚†œö1J$0b166fe2-a49d-40c9-a0ca-9b59600b6b74
+r	java:S106!"+Replace this use of System.out by a logger.(÷äÂ›şÿÿÿÿ8â‚†œö1J$254b7b72-d949-4f4c-8237-bf9f448d2723
+m	java:S106N"+Replace this use of System.out by a logger.(ÀÜ¨8ë‚†œö1J$104726bb-9c9e-4be5-85fb-1d821ad43dd1
+r	java:S106O"+Replace this use of System.out by a logger.(¾ùôŒùÿÿÿÿ8ë‚†œö1J$072c8dbe-e96b-4577-ae3b-c11654a90614
+_
+java:S1116T"Remove this empty statement.(›Ûµş8ì‚†œö1J$de16aaca-07e6-4f86-903f-ac1b5ac0f886

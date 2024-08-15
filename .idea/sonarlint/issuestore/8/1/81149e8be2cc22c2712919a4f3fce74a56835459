@@ -1,0 +1,14 @@
+
+w
+java:S1143"5Remove this return statement from this finally block.(ªÉ¨S8Ö´ëŸ’2J$5dfa949f-5cd5-4453-9f35-471e216d64e1
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·ŽŒ’ýÿÿÿÿ8­¯ÖŸ’2J$41dac382-5f88-444e-81ff-71575ecc46d2
+‹
+java:S3518"CMake sure this expression can't be zero before doing this division.(èË·¢øÿÿÿÿ8¯¯ÖŸ’2J$6196e2ff-b9a7-4c89-ad9b-d073e74f3060
+r
+java:S1197"*Move the array designators [] to the type.(¡þÏÖøÿÿÿÿ8±¯ÖŸ’2J$28db278e-f3b2-42c5-8a9d-9d3ba309fccb
+r	java:S106"+Replace this use of System.out by a logger.(×Ä±†üÿÿÿÿ8²¯ÖŸ’2J$b80b21b9-6ac6-4ab0-a98f-bbd5ffc630bb
+r	java:S106"+Replace this use of System.out by a logger.(éí÷„ùÿÿÿÿ8³¯ÖŸ’2J$6ca555d6-dfbc-4b18-a015-c930c1a7d0ae
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ø®‹Ãùÿÿÿÿ8ÌŒçŸ’2J$dc748713-2125-43ef-82af-d88079183e6b
+m	java:S106"+Replace this use of System.out by a logger.(Ó…ªÇ8³¯ÖŸ’2J$1e5bb893-d133-4f52-a94c-0c919ed9fc57
+r	java:S106"+Replace this use of System.out by a logger.(—ãÂûÿÿÿÿ8³¯ÖŸ’2J$217caf86-5701-4b40-becd-938442f6fad3
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ÒªÑéøÿÿÿÿ8ÜÎØŸ’2J$f6ec6220-4015-45e1-96f3-e25d4f1cc5f2

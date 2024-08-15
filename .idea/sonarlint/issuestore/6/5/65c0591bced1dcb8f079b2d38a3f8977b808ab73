@@ -1,0 +1,7 @@
+
+ˆ	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(çå•8ùâô‚’2J$8a9d1304-10ed-4ad5-a007-a90cc59355fa
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·Œ’ıÿÿÿÿ8ûâô‚’2J$985f12ac-a2ee-4e6d-a461-8b5152c88302
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(‹Æ‚ºøÿÿÿÿ8ƒãô‚’2J$b4833501-efb3-4197-88ad-59acc0af0893
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(˜ğæˆüÿÿÿÿ8ä”ü‚’2J$016e8ed1-276d-4b62-b98c-3597c6084442
+x
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8ı¬€ƒ’2J$7e09121b-1488-4c48-ba86-d24bc55caf01

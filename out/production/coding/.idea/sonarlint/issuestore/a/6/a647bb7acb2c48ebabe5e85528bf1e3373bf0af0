@@ -1,0 +1,24 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İ˜Úğ8§‚¸‡ƒ2J$c1124553-001a-4186-b61d-57627f668dde
+
+java:S1854"9Remove this useless assignment to local variable "count".(•ÒÕóøÿÿÿÿ8³‚¸‡ƒ2J$e3a2e136-e810-4497-865d-59cb2c08790b
+X
+java:S1854A";Remove this useless assignment to local variable "matrix2".(Ùå‰˜8àÔˆƒ2
+]
+java:S1854<";Remove this useless assignment to local variable "matrix1".(ßùÎúÿÿÿÿ8àÔˆƒ2
+t
+java:S1481	",Remove this unused "numbers" local variable.(ˆ°«¬şÿÿÿÿ8´‚¸‡ƒ2J$6fa17fd0-5e88-43c1-87bc-29a8458031a4
+r
+java:S1481"*Remove this unused "count" local variable.(•ÒÕóøÿÿÿÿ8´‚¸‡ƒ2J$abdc98c8-2630-4576-b885-c02e8378a502
+~	java:S125"<This block of commented-out lines of code should be removed.(½Œéà8´‚¸‡ƒ2J$12e14557-2cbc-40e9-9681-1d2bca265a0b
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ç¡•Œùÿÿÿÿ8´‚¸‡ƒ2J$91006868-927a-4983-9fb8-fcd2a92a72c7
+ƒ	java:S125""<This block of commented-out lines of code should be removed.(ÇìÕìúÿÿÿÿ8µ‚¸‡ƒ2J$35a445c8-238a-4b0b-9a51-1544a431d1c0
+~	java:S125#"<This block of commented-out lines of code should be removed.(ˆÙŒÌ8µ‚¸‡ƒ2J$ffd1fc4a-e69c-417a-b176-5dfefe056949
+ƒ	java:S125$"<This block of commented-out lines of code should be removed.(İÛÛÙøÿÿÿÿ8µ‚¸‡ƒ2J$da4e9455-964f-4a7d-8d33-15e526cbc44c
+l	java:S1062"+Replace this use of System.out by a logger.(Ã÷D8¶‚¸‡ƒ2J$64050f61-95b0-4bc9-884f-7c813303e63b
+r	java:S1066"+Replace this use of System.out by a logger.(ƒëäşÿÿÿÿ8·‚¸‡ƒ2J$cd4b5005-82f1-4e5c-9885-349a456afe77
+r	java:S1068"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8áÀ‡ƒ2J$33969d12-cb99-4de2-8380-b8eeae9c9462
+N
+java:S1481<",Remove this unused "matrix1" local variable.(ßùÎúÿÿÿÿ8™àÔˆƒ2
+I
+java:S1481A",Remove this unused "matrix2" local variable.(Ùå‰˜8™àÔˆƒ2

@@ -1,0 +1,131 @@
+
+Œ	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àîı¼J$e7924073-4209-48c3-8188-178d1edbc227
+V
+java:S1220""Move this file to a named package.J$8d022d77-b6c6-457b-8846-9abef3ff49db
+_
+java:S2189¨""Correct this loop's end condition.(ôÀâóJ$26b61f4c-df6e-470f-ae92-8ee228c4be1f
+_
+java:S2189Ç""Add an end condition to this loop.(´ÿÕ™J$58517990-be45-465d-aedb-1cd1b7ed3ed9
+y
+java:S2589û"7Remove this expression which always evaluates to "true"(¬Ë¯÷şÿÿÿÿJ$558c84d6-8f14-4cca-88ec-b418b65d47d6
+y
+java:S2589›"7Remove this expression which always evaluates to "true"(¬Ë¯÷şÿÿÿÿJ$3735b9d9-2697-4858-8eff-1ea02dbd7c7a
+y
+java:S2589"7Remove this expression which always evaluates to "true"(¬Ë¯÷şÿÿÿÿJ$4cbd2f8e-e9d0-4b24-a957-9ea45478c38f
+
+java:S2583Ÿ"DChange this condition so that it does not always evaluate to "false"(¯’ß¸J$0af4ef46-9f5d-418a-b667-fad1a9656baa
+
+java:S2583‘"DChange this condition so that it does not always evaluate to "false"(¯’ß¸J$5a25ae1f-5b36-4a09-a4d6-f828e7e8275a
+Â
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ï§‘éùÿÿÿÿJ$6b6e163b-7663-4722-ac0a-6a9b6a26d238
+
+java:S1659">Declare "b" and all following declarations on a separate line.(İÃõùûÿÿÿÿJ$9a9ecd8f-788b-4a7f-9e03-8d16a84e8f70
+w	java:S125"<This block of commented-out lines of code should be removed.(ÃÁíƒJ$014211aa-858a-47be-86a8-44f69a74a9a5
+v
+java:S1854"5Remove this useless assignment to local variable "n".(æÓ¿ïÿÿÿÿÿJ$d93c309e-d291-44d2-b6e1-2c418355fa13
+
+java:S1854"CRemove this useless assignment to local variable "tempPossiblePos".(Å¡ÔìJ$59d8c388-6d78-443a-94ee-acc7945842e9
+g
+java:S1481"&Remove this unused "n" local variable.(æÓ¿ïÿÿÿÿÿJ$af3da766-c478-4792-a478-5163a841d46f
+w	java:S125("<This block of commented-out lines of code should be removed.(æõÑ†J$6d94ecff-d51b-4cd5-bb35-15f0ab7d9d9d
+	java:S100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Ïê€øÿÿÿÿJ$8f84edd5-91bb-4a22-b276-aca05177ba88
+k
+java:S1197,"*Move the array designators [] to the type.(¹Ïê€øÿÿÿÿJ$9b49a856-b5c5-4fbd-904c-112b1cb87f0a
+f	java:S106J"+Replace this use of System.out by a logger.(¦›Ò®J$4e6ba2bc-1c8a-4c40-adf7-62a6f6910b56
+g
+java:S1481K"&Remove this unused "i" local variable.(ùó›ÌøÿÿÿÿJ$1c307b4c-c5ed-4b5e-a1b6-2025436a8c3e
+e	java:S106V"+Replace this use of System.out by a logger.(°•ŞJ$3c726d7e-906c-434d-9d82-fd09e7fc87be
+k	java:S106j"+Replace this use of System.out by a logger.(¦Öç²ûÿÿÿÿJ$9e55dc9a-df22-48d7-8fc5-157249b26c0d
+f	java:S106s"+Replace this use of System.out by a logger.(Û‚öàJ$664349b9-4542-43fd-b75e-21c81b95e41a
+f	java:S106w"+Replace this use of System.out by a logger.(ë°ëóJ$2b42ec11-68a4-4e30-ad27-268fdfde1687
+e	java:S106y"+Replace this use of System.out by a logger.(°•ŞJ$54eaa7e8-5ce4-4e4a-bf99-5ee397ff9910
+€
+java:S1854">Remove this useless assignment to local variable "noOfSpaces".(£©ÙËùÿÿÿÿJ$a5542916-61a9-4c1a-b540-46a213a33124
+q
+java:S1481"/Remove this unused "noOfSpaces" local variable.(£©ÙËùÿÿÿÿJ$690978db-8fec-4a36-9aca-ce49a5445f9e
+g	java:S106„"+Replace this use of System.out by a logger.(ë°ëóJ$51d74713-7147-4ba3-9808-8fa4720e6558
+f	java:S106†"+Replace this use of System.out by a logger.(°•ŞJ$651aab29-3975-4654-bbd2-ce1e1ff7185b
+g	java:S106‰"+Replace this use of System.out by a logger.(ë°ëóJ$3647fe3c-33c3-4a1c-90ca-91e938390459
+f	java:S106‹"+Replace this use of System.out by a logger.(°•ŞJ$329ad28c-919b-4dc4-af8c-fd26966e7d7c
+g	java:S106"+Replace this use of System.out by a logger.(ë°ëóJ$c884010f-830f-4d70-a645-46d60e4b1332
+g	java:S106™"+Replace this use of System.out by a logger.(Û‚öàJ$05274ca2-4f8f-41d6-a4c8-a36b4626eca5
+g	java:S106"+Replace this use of System.out by a logger.(ë°ëóJ$c535ab27-c255-4143-8417-769d42b016c4
+f	java:S106Ÿ"+Replace this use of System.out by a logger.(°•ŞJ$237ad5a1-6064-447c-b8b7-8f82d13b8220
+g	java:S106¦"+Replace this use of System.out by a logger.(ë°ëóJ$044c1483-a1d7-4d72-81ad-888f0d96448c
+f	java:S106¨"+Replace this use of System.out by a logger.(°•ŞJ$74c73d82-b192-46de-8af5-53f548802e7a
+g	java:S106¯"+Replace this use of System.out by a logger.(Û‚öàJ$34b5e969-9ba9-4af0-bede-622af02b93eb
+g	java:S106²"+Replace this use of System.out by a logger.(ë°ëóJ$406dbc88-217b-4304-a16d-5b40b3530f4b
+f	java:S106´"+Replace this use of System.out by a logger.(°•ŞJ$ee95188f-4076-4eda-ace1-5d4f344a7d56
+g	java:S106¼"+Replace this use of System.out by a logger.(Û‚öàJ$82ba5f95-d6e5-4707-943d-aac68c239976
+g	java:S106¾"+Replace this use of System.out by a logger.(ë°ëóJ$c83f10a1-a373-4ba1-820f-78129aef61b8
+f	java:S106Á"+Replace this use of System.out by a logger.(°•ŞJ$62035d8b-3ad8-403b-865b-d8a8f88290cc
+\
+java:S1659É"Declare "m" on a separate line.(ÑÍµáJ$1ea084d4-d41e-4f81-8e82-6d5b6717c25c
+c
+java:S1481É"&Remove this unused "m" local variable.(ÑÍµáJ$f7beade4-f135-4dbc-88b7-345d1578433a
+g	java:S106Ï"+Replace this use of System.out by a logger.(Ù€Ò…J$884d09a9-d868-4469-802c-e90bdf7ee48c
+g	java:S106Ø"+Replace this use of System.out by a logger.(¢àóÄJ$7ece1ebe-e365-491a-891b-f0681b2ec7bf
+l	java:S106ä"+Replace this use of System.out by a logger.(ãØˆ—úÿÿÿÿJ$5e213d16-bf42-4fb9-a274-40f12cde5e7c
+g	java:S106ê"+Replace this use of System.out by a logger.(”ûËÑJ$e2985854-5e69-4e0e-9416-aa834529a906
+g	java:S106î"+Replace this use of System.out by a logger.(Ş½â›J$981e94ce-5a0a-40a7-af2e-f5d5c50c3581
+x	java:S125ñ"<This block of commented-out lines of code should be removed.(ÕÊÛšJ$6bfe0132-2f07-45c4-8c3e-b9d5a14e703b
+g	java:S106ú"+Replace this use of System.out by a logger.(”ûËÑJ$9fdbf1b6-1da2-4087-9391-1cda6b8eb8b6
+g	java:S106ş"+Replace this use of System.out by a logger.(Ş½â›J$76debfbd-4abb-406f-895e-53ff3e4d652a
+l	java:S106‚"+Replace this use of System.out by a logger.(ò¨›ıùÿÿÿÿJ$028c90e7-0236-407f-9070-87bf05f97d99
+x	java:S125…"<This block of commented-out lines of code should be removed.(ÕÊÛšJ$fda2821d-f2a8-4302-bd64-a4d1afb8d479
+g	java:S106Œ"+Replace this use of System.out by a logger.(”ûËÑJ$86914db0-2d5f-4626-9816-af900e74c5fe
+g	java:S106"+Replace this use of System.out by a logger.(Ş½â›J$e5bca600-a634-4fb7-93ec-452faef86858
+f	java:S106”"+Replace this use of System.out by a logger.(÷¿„J$bc65523a-3bb6-4ef4-b89b-e6ed27f00a0c
+g	java:S106š"+Replace this use of System.out by a logger.(”ûËÑJ$97d4125f-329a-4537-82bf-fb87c8505925
+g	java:S106"+Replace this use of System.out by a logger.(Ş½â›J$8d5cd378-933d-43fe-af6d-ac881ab01790
+l	java:S106¢"+Replace this use of System.out by a logger.(ò¨›ıùÿÿÿÿJ$e9dedb67-8676-400d-923d-f64c9f8c19a8
+v
+java:S2251¨"9"j" is incremented and will never reach "stop condition".(ôÀâóJ$dbe91164-cea5-42ee-8bf3-fc13192be6ae
+l	java:S106©"+Replace this use of System.out by a logger.(íäªıÿÿÿÿÿJ$c7e76553-1543-42fe-8c43-8e89c328c653
+l	java:S106¬"+Replace this use of System.out by a logger.(ò¨›ıùÿÿÿÿJ$72d24dd8-41b1-4a74-9f43-e1780e5ecf6f
+g	java:S106´"+Replace this use of System.out by a logger.(¢ÖŒšJ$6b6049d1-8b90-4689-b7a1-1961869d4fe9
+l	java:S106·"+Replace this use of System.out by a logger.(±éÂÒùÿÿÿÿJ$a4cb1000-f173-49b9-b0f5-46a2c416069b
+g	java:S106»"+Replace this use of System.out by a logger.(¸‹ŠáJ$37a2012d-f5b4-484b-b4a7-78577fdfd73b
+l	java:S106¾"+Replace this use of System.out by a logger.(ÆşÔşÿÿÿÿJ$1c4a5435-8788-4170-889e-19bc0f3203cf
+l	java:S106Â"+Replace this use of System.out by a logger.(ò¨›ıùÿÿÿÿJ$4d7f5ad2-756f-4435-b9af-76e2034c61a9
+c
+java:S1481Æ"&Remove this unused "j" local variable.(èê»J$cbf5527e-7804-407e-bbcd-0102f27b73e5
+g	java:S106È"+Replace this use of System.out by a logger.(ƒğüÁJ$211829c6-6021-4faf-b841-bd4d3df19975
+g	java:S106Î"+Replace this use of System.out by a logger.(ç˜­ÅJ$dff44a9c-3967-46a9-bfe7-8154bca0a5b7
+l	java:S106Ô"+Replace this use of System.out by a logger.(·ËùÿÿÿÿJ$66fcae7d-22bd-4fc5-b522-ebdd5c125249
+g	java:S106Û"+Replace this use of System.out by a logger.(¾Ë¼ŸJ$ff4b6a2d-5503-4c47-bd38-b547b3d099eb
+l	java:S106â"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿJ$e852aa98-a1eb-4fe3-bf30-8ae75fa1dff3
+f	java:S106ë"+Replace this use of System.out by a logger.(ÈŠËOJ$4fb251d8-309e-4ac9-9920-b10f59372325
+g	java:S106í"+Replace this use of System.out by a logger.(ñêñäJ$7d5efea4-dd8e-4323-a589-844c8485fc7b
+}	java:S125ò"<This block of commented-out lines of code should be removed.(«ÅÙ¤ùÿÿÿÿJ$7dfd8f09-21ea-4039-b19b-2de6c08b3c62
+l	java:S106ù"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿJ$c0daa3d7-807e-44a4-b560-807f16e5cf54
+v
+java:S1128"5Remove this unused import 'two.pointers.TwoPointers'.(œ°ªûúÿÿÿÿJ$eddaa578-26d0-4770-a701-6379096acb80
+b
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙJ$f17eea57-fa51-4478-8943-64f3cfd3cb2c
+p
+java:S1144["/Remove this unused private "bubbleSort" method.(²İıÁşÿÿÿÿJ$6d1236d5-681a-4702-af08-bed1ed78b991
+d
+java:S1144ç"'Remove this unused private "m5" method.(ŒšÆJ$b105daba-280b-4580-9622-eac38be6f941
+d
+java:S1144÷"'Remove this unused private "m6" method.(”®‹¹J$04b56247-29c5-4ba1-8642-712928634a99
+i
+java:S1144‰"'Remove this unused private "m7" method.(„ùëıÿÿÿÿJ$a29c6747-432a-4cb3-8d08-0a3d63f74030
+c
+java:S1144—"'Remove this unused private "m8" method.( çşvJ$2b22f923-a2a7-4693-aa8c-aa5802c3d3a5
+k
+java:S1144¥".Remove this unused private "scopeTest" method.(¨ş¥åJ$3e219035-986c-4c46-bc14-090bce007bbd
+q
+java:S1144°"/Remove this unused private "scopeTest2" method.(³­×ŸÿÿÿÿÿJ$fc0a2d50-9485-44e3-ad83-4efa93bc46d4
+j
+java:S1144Å"(Remove this unused private "m11" method.(£ì¬ìÿÿÿÿÿJ$904630ac-8332-4f3b-8683-9a9c11d260fe
+e
+java:S1144Ì"(Remove this unused private "m12" method.(“ç¦J$fe74f1dc-edd6-4a5e-9af2-c8ec4c618dc5
+j
+java:S1144Ñ"(Remove this unused private "m13" method.(â™ŞÑşÿÿÿÿJ$e53efef6-833c-4e8d-8e67-0f401df3075d
+e
+java:S1144ß"(Remove this unused private "m14" method.(¿ÉÆçJ$d7b4ab1c-c3b9-456e-932c-f6ef3c0bb017
+j
+java:S1144ç"(Remove this unused private "m15" method.(ÔÿèÜıÿÿÿÿJ$358d7fbc-32fb-4336-b41c-4cc3d28ac137
+ˆ
+java:S1144ñ"FRemove this unused private "convertToWhileLoopAndVerifyOutput" method.(ÚÈñÿÿÿÿÿJ$0ae20451-b185-4d63-8c45-0aa661932c8a

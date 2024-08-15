@@ -1,0 +1,24 @@
+
+Œ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿªJ$38e933b1-58b5-4210-a2fe-6a83777fb71d
+Œ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( îºJ$3a6ee696-e77f-4891-b7f3-f5416c45b37a
+Œ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»€òJ$102df869-2b38-4501-9e9e-44371e985611
+Œ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â·şôJ$ca85439b-71b4-4cf5-ad94-31d919d2f212
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òûçŒúÿÿÿÿJ$f9835497-8967-45a6-953a-1906e35750ff
+‹	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓúJ$dc54ae05-2eb4-46a3-b158-b8cf6c74bfa6
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½©ĞşüÿÿÿÿJ$43c8c9bb-f847-4922-bf70-534f6b98503a
+Œ	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Ğ§ŞJ$1b297598-621c-49b5-b3cb-dfba806b0295
+€
+java:S4143""DVerify this is the key that was intended; it was already set before.(Îè¶ÖJ$d1c31bb9-9efb-405f-b0e0-2e30dc9f821b
+w	java:S125"<This block of commented-out lines of code should be removed.(ô­™J$8814271b-0ae5-4fe7-aa3f-649a90f86eb4
+c
+java:S2201#"'The return value of "get" must be used.(²Ñ£†J$a8035c0c-efe5-4331-b073-7f18b1594d4e
+k	java:S106-"+Replace this use of System.out by a logger.(Ë°—ÆÿÿÿÿÿJ$a38fa6d8-68b5-488e-b7b3-4b0113d8ddc8
+v
+java:S1161?":Add the "@Override" annotation above this method signature(ã¸ªçJ$3927aeb8-b23e-4d94-b2a6-1dd6399ee170
+k	java:S106@"+Replace this use of System.out by a logger.(òŸòÚûÿÿÿÿJ$79e05b4d-28e1-49f0-9614-2b76f74ea0fa
+v
+java:S1161E":Add the "@Override" annotation above this method signature(ã¸ªçJ$93893ba5-e6c3-4b73-a548-cdba8040f5cb
+k	java:S106F"+Replace this use of System.out by a logger.(ò½—ŒùÿÿÿÿJ$d07a44ec-0444-4b89-9d57-e480fee707d3
+k	java:S106L"+Replace this use of System.out by a logger.(¶ä›ãúÿÿÿÿJ$5ab8a3b9-34e7-471c-9f06-2261940d0cad
+l
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±ÄøÿÿÿÿJ$ac3a7079-a993-4f43-8eb5-96f162713a87

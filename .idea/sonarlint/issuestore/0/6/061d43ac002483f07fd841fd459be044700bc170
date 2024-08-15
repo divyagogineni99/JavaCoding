@@ -1,0 +1,36 @@
+
+w
+java:S3740"/Provide the parametrized type for this generic.(­¿ÈÅıÿÿÿÿ8½§ÃÄ’2J$75e55796-a589-4718-8fdb-f9e94d3e6d11
+›
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŠƒÆ8¿§ÃÄ’2J$76317e50-1c0a-41f7-9b5e-ce5531ffca05
+œ
+java:S2293'"YReplace the type specification in this constructor call with the diamond operator ("<>").(ıº¼·8÷¿ Ç’2J$b2494f59-c0e7-4e62-bf70-d79aabc81559
+¡
+java:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ğ¹ÙÖûÿÿÿÿ8÷¿ Ç’2J$7ee6149d-4fcb-43cf-a617-2cae07fd0d71
+‰
+java:S1192"FDefine a constant instead of duplicating this literal "Vijay" 3 times.(ÍàåÇ8û¿ Ç’2J$757495ee-a297-418d-b96f-6cec00c15ce5
+
+java:S1192-"FDefine a constant instead of duplicating this literal "Harsh" 3 times.(á½ÈÌøÿÿÿÿ8û¿ Ç’2J$a9e7773d-e03b-495e-9501-ea153ffd9ddc
+
+java:S1192,"GDefine a constant instead of duplicating this literal "Gaurav" 3 times.(ŸÆœºøÿÿÿÿ8û¿ Ç’2J$a17a51cb-6cb6-496b-aacc-82304f1837f3
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úÙˆşÿÿÿÿÿ8À§ÃÄ’2J$f83067cc-8e2a-4828-a518-f37eaf93e606
+
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ïí…Ê8©¡Ç’2J$19545df2-2c97-4ee4-97fc-a1f30cbfb278
+˜
+java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(¥€ë˜øÿÿÿÿ8©¡Ç’2J$8e4f6585-2085-4d39-afdd-f6b6861bafb1
+—
+java:S2095"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ÑÒ»¥øÿÿÿÿ8©¡Ç’2J$0fc89120-2aad-4d9d-bea4-74cf0f2c484d
+
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ˆû¡8©¡Ç’2J$ed0af7a1-0258-4937-a3f3-ea93519abf9d
+r	java:S106"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ8¹¨ÃÄ’2J$e3a46480-ee19-4529-8049-5821f4335b01
+r	java:S106"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8º¨ÃÄ’2J$d5ba317e-6f89-4728-b37f-a41b692a4105
+m	java:S1062"+Replace this use of System.out by a logger.(º‡‘8‘À Ç’2J$b84c08a0-f6e4-4438-b47a-422ef5d191ac
+m	java:S1065"+Replace this use of System.out by a logger.(í°«½8’À Ç’2J$57af68e8-49c3-4ea9-8514-2a63374bb55f
+m	java:S1068"+Replace this use of System.out by a logger.(Úáÿå8’À Ç’2J$02d9b615-745a-4319-b2d9-e675d06e87ba
+r	java:S106>"+Replace this use of System.out by a logger.(×îÌ‰øÿÿÿÿ8“À Ç’2J$9adef226-e6f4-47c2-828e-fdc649d84753
+r	java:S106A"+Replace this use of System.out by a logger.(ö“õ¨ÿÿÿÿÿ8”À Ç’2J$6d7fe87c-cfda-4c31-b1e8-bb42eb8a739d
+r	java:S106D"+Replace this use of System.out by a logger.(ööÒüÿÿÿÿ8”À Ç’2J$84c61e0b-2de6-4968-94b3-56f31ba9c4b9
+r	java:S106G"+Replace this use of System.out by a logger.(¡êé¼úÿÿÿÿ8•À Ç’2J$25a5c065-5ccc-4cff-b929-a180fefab3e2
+r	java:S106J"+Replace this use of System.out by a logger.(³æäØùÿÿÿÿ8•À Ç’2J$c52cbda6-b5f9-4e1d-af47-7b4989605ebb
+r	java:S106M"+Replace this use of System.out by a logger.(îåÀúÿÿÿÿ8•À Ç’2J$4d8f6f26-6af1-4074-97b0-1509afd6df2d
+m	java:S106Q"+Replace this use of System.out by a logger.(©û¸¦8–À Ç’2J$934c508c-0e82-4f42-b484-deb1bf7b0b00

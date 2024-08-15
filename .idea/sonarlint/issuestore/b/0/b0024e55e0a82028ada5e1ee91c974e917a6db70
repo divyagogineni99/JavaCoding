@@ -1,0 +1,40 @@
+
+}
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8«ºÜÇ‘2J$c286d32a-e86a-4fff-a26b-b5b73b396c87
+}
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8¬ºÜÇ‘2J$fe63c25e-1c8e-480c-8a23-ca9e036b2a03
+}
+java:S11416"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ØªêÇ‘2J$16ec6b48-5301-4f55-aec5-9aecac61e0ac
+}
+java:S11419"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ØªêÇ‘2J$4134cced-f2ad-4de6-bef6-92affd7ddd73
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·Œ’ıÿÿÿÿ8­ºÜÇ‘2J$c7f74773-e294-459f-afca-efa6ba8b096d
+‹
+java:S3518
+"CMake sure this expression can't be zero before doing this division.(Å¿±¬ıÿÿÿÿ8³ºÜÇ‘2J$057df324-4e1d-492c-a7f4-69baf2481c11
+}
+java:S1854
+"5Remove this useless assignment to local variable "b".(Å¿±¬ıÿÿÿÿ8·ºÜÇ‘2J$39600036-2175-45ec-9c2a-9e8207ad12a8
+r
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8·ºÜÇ‘2J$42f2a205-fb5e-43d1-ae31-7842b63a3999
+r	java:S106	"+Replace this use of System.out by a logger.(Ü„¿øÿÿÿÿ8½ºÜÇ‘2J$4ce7cc46-ac6a-499e-b702-144407eab910
+n
+java:S1481
+"&Remove this unused "b" local variable.(Å¿±¬ıÿÿÿÿ8¾ºÜÇ‘2J$fa591e2b-2d08-421d-995f-30fb71926c40
+r	java:S106"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8¾ºÜÇ‘2J$6001e393-ba40-40e9-955a-9ab477d62bd2
+r
+java:S1197"*Move the array designators [] to the type.(«„ğŞúÿÿÿÿ8¾ºÜÇ‘2J$cab682c0-714c-462b-9256-7fc49db91c8c
+r	java:S106"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8¿ºÜÇ‘2J$a35efa4e-45ce-4b86-84d1-2f1fa44f3de6
+m	java:S106 "+Replace this use of System.out by a logger.(Í°Øî8¿ºÜÇ‘2J$e5bece36-13b1-4027-a509-24ff9467df52
+m	java:S106$"+Replace this use of System.out by a logger.(‡¯¸‰8¿ºÜÇ‘2J$5a70329f-fcc0-436c-80a4-cd30e98cb7d4
+r	java:S106'"+Replace this use of System.out by a logger.(ËúŸÄüÿÿÿÿ8¿ºÜÇ‘2J$aafed9b9-1c7f-4888-b257-870d000e6be5
+r
+java:S1197:"*Move the array designators [] to the type.(€Üıøÿÿÿÿ8æªêÇ‘2J$2c922549-2455-42d6-8624-65961f6d0b8f
+m	java:S106="+Replace this use of System.out by a logger.(Û¡¿÷8æªêÇ‘2J$770ab8c2-1d1a-45ca-883e-d8692e6cae5a
+r	java:S106B"+Replace this use of System.out by a logger.(¯ Ü øÿÿÿÿ8çªêÇ‘2J$1057dcbb-903c-4aca-ad2e-9ae4fd92ac4a
+r	java:S106C"+Replace this use of System.out by a logger.(±“­„üÿÿÿÿ8çªêÇ‘2J$7a5d9514-f48f-4928-bdb3-012f153da12e
+r	java:S106I"+Replace this use of System.out by a logger.(¯ Ü øÿÿÿÿ8çªêÇ‘2J$813637ac-4a24-4615-bc6c-f00cbd569e06
+m	java:S106J"+Replace this use of System.out by a logger.(–ş¸À8çªêÇ‘2J$27cb5cf8-33bb-4f6b-aa24-badef585dac4
+r	java:S106P"+Replace this use of System.out by a logger.(¦òåúÿÿÿÿÿ8çªêÇ‘2J$ef51f504-d1bd-4a6c-8d0c-02df011bb677
+r	java:S106Q"+Replace this use of System.out by a logger.(¦³ Åúÿÿÿÿ8çªêÇ‘2J$c08f02d7-b618-474b-bcc6-f62dddc8bb88
+m	java:S106T"+Replace this use of System.out by a logger.(ˆ¶˜Ç8çªêÇ‘2J$6b494c1d-ba58-4b26-b339-9b75cf59b639
+r	java:S106U"+Replace this use of System.out by a logger.(Ÿÿ¶øÿÿÿÿ8èªêÇ‘2J$381a48c5-8227-4acc-b225-59c1bb17f7b3

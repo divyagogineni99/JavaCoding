@@ -1,0 +1,115 @@
+
+k
+java:S37406"/Provide the parametrized type for this generic.(Ş‹½òJ$f7f1701c-0d27-4e67-8fe9-f3e0e8529cf5
+›
+java:S2293Ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(—Œ‰€ûÿÿÿÿJ$286cd67e-135a-4a95-b9fc-384c5db4b775
+›
+java:S2293ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ï’¼ùÿÿÿÿJ$649f4efb-b1d8-408c-908d-50988e12c676
+›
+java:S2293Ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(â”û’şÿÿÿÿJ$c1cd93c3-f1c3-49c4-b9cd-531196168996
+‰
+java:S1192º"LDefine a constant instead of duplicating this literal "No Elements" 3 times.(ßİÓäJ$3766580f-cf0d-4c56-9fe7-f833d1e675d9
+
+java:S1192Á"MDefine a constant instead of duplicating this literal "Happy Number" 3 times.(ºŠ©×üÿÿÿÿJ$7b84957d-3983-42bc-9d83-88e62a292392
+•	java:S135Ù"YReduce the total number of break and continue statements in this loop to use at most one.(ŸªJ$ed3e9887-1aba-4f88-931f-f7777af721c7
+š	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(â““»øÿÿÿÿJ$6d83ca9b-5401-4196-8373-8ec8f6ba7426
+š	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ùöª°ÿÿÿÿÿJ$a242b783-9382-429f-b20e-5ff97b5a1a1f
+‘
+java:S11492"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÚàñğúÿÿÿÿJ$ff2c9256-e969-47ae-b806-71dde301ad3b
+Œ
+java:S11496"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ş‹½òJ$15034af4-df82-45bb-ba23-16c1de7aeb6f
+Œ
+java:S1149A"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(õ·–ğJ$73ec7d76-d00a-4870-a6f2-82db2fba5bcd
+e
+java:S1659"$Declare "second" on a separate line.(«ğ™¼üÿÿÿÿJ$2837fd65-0af4-494b-a375-b6d583a6d166
+m
+java:S1197)",Move the array designators [][] to the type.(İšòÂûÿÿÿÿJ$c8c77f21-740c-4970-b082-f029660d6571
+|	java:S125"<This block of commented-out lines of code should be removed.(äÉÅÿøÿÿÿÿJ$1f02ced0-edb2-4f3f-83a6-38b951732900
+f	java:S106/"+Replace this use of System.out by a logger.(¯Ô½J$b2824e7a-3efb-4a73-837f-bd7193153ec4
+|	java:S1253"<This block of commented-out lines of code should be removed.(†¸ïêÿÿÿÿÿJ$c71f6e95-f8be-47ad-a7ea-27a523ebf71c
+b
+java:S11258"'Remove the unnecessary boolean literal.(œ¥Ü,J$3f528243-4f03-4dbc-a4db-445b77ba2b03
+f	java:S106<"+Replace this use of System.out by a logger.(ÍÇ…”J$8dc50e27-990e-4954-b25d-0f3f42422641
+k	java:S106K"+Replace this use of System.out by a logger.(íóş×ûÿÿÿÿJ$4ac1936f-42d1-4c93-965b-e97bcff30f62
+w	java:S125N"<This block of commented-out lines of code should be removed.(§´¯ÛJ$31479d06-3e81-4f39-924c-557a11f97131
+w	java:S125S"<This block of commented-out lines of code should be removed.(Š¦™±J$1cffc7e7-8995-4d7c-9fbe-5b1e40a63591
+g
+java:S1197]",Move the array designators [][] to the type.(™ûíJ$0f2b80ba-e252-427e-9991-80ca1cf2dfbd
+m
+java:S1197o",Move the array designators [][] to the type.(£ğê©úÿÿÿÿJ$a718406c-5d1d-4f23-9a00-0954eb46c6c5
+k	java:S106y"+Replace this use of System.out by a logger.(Ÿ½ÄÿÿÿÿÿJ$3a249b8d-9173-439f-aac6-abb24fc49f80
+Š	java:S100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ÖİJ$28fda551-4176-4414-b8cf-a4783325a9b8
+}	java:S125‚"<This block of commented-out lines of code should be removed.(¢±ƒáÿÿÿÿÿJ$09857458-bf4d-4868-a8b7-dd995c3251b9
+i
+java:S1197ƒ",Move the array designators [][] to the type.(‚ÖİJ$adeb0b51-5ec0-474d-8815-7708845e5528
+g
+java:S1197„"*Move the array designators [] to the type.(®ÿí§J$739ea720-436b-4f3f-a5ca-7a873b328d6d
+g
+java:S1197…"*Move the array designators [] to the type.(ú¬îùJ$dc1e3f2b-676c-4d7c-a1a8-b3f7ae1ed283
+n
+java:S1197–",Move the array designators [][] to the type.(‹„Ğ©ûÿÿÿÿJ$ac6449e5-5c97-454d-a578-b446ef537072
+i
+java:S1197—",Move the array designators [][] to the type.(ƒ³ñJ$6bce7b45-73f5-4dde-91da-a547df025356
+l	java:S106¢"+Replace this use of System.out by a logger.(ìáÇ¢øÿÿÿÿJ$d39ad1f3-08fa-4275-99c9-414af9626be3
+x	java:S125¤"<This block of commented-out lines of code should be removed.(ûø»ÚJ$5092da9d-66c3-4efb-abb1-a37677a6c475
+l	java:S106ª"+Replace this use of System.out by a logger.(º¢ñ½ıÿÿÿÿJ$99062617-930b-49e8-ae7d-8f75624face0
+l	java:S106¬"+Replace this use of System.out by a logger.(ƒÇãˆúÿÿÿÿJ$db26da1f-2604-43be-ba5c-3a131bdf1c83
+a
+java:S1659×"Declare "j" on a separate line.(á”æåşÿÿÿÿJ$b12517cb-006d-4080-81b2-274a2232987c
+h
+java:S1481×"&Remove this unused "i" local variable.(á”æåşÿÿÿÿJ$bd4f497e-f2aa-409c-96a0-7f566ac61096
+h
+java:S1481×"&Remove this unused "j" local variable.(á”æåşÿÿÿÿJ$0d9352d7-a2d3-45e9-9625-5fd80b59cb86
+g	java:S106à"+Replace this use of System.out by a logger.(Ä”—©J$ec4dc64d-b463-4be5-9832-7cd01a5d042c
+l	java:S106æ"+Replace this use of System.out by a logger.(ß·‰šùÿÿÿÿJ$d50ad0a5-f3a3-4a40-a4f9-07f640fa49b7
+v
+java:S2864ö"4Iterate over the "entrySet" instead of the "keySet".(ÂË²ËùÿÿÿÿJ$a1edd0fe-8059-4c51-bdb6-7b9b3490792e
+l	java:S106÷"+Replace this use of System.out by a logger.(áó–öùÿÿÿÿJ$21d2db2b-cb43-43c6-8db4-e2e9197c3f35
+c
+java:S1168‹"&Return an empty array instead of null.(¥¹ïJ$94906821-ffd3-4090-af90-82e37bca6b70
+~
+java:S1659’"ADeclare "temp" and all following declarations on a separate line.( ú—¦J$4ba2152a-9168-4a0f-8ffa-de3a58aaa87d
+g
+java:S1197‘"*Move the array designators [] to the type.(³ÁÈ÷J$52bd0275-f748-487e-828f-dc740f0378ec
+c
+java:S1481’"&Remove this unused "k" local variable.( ú—¦J$c79f8c33-d5de-4d13-bc80-ac5152567563
+f
+java:S1481’")Remove this unused "temp" local variable.( ú—¦J$cb5eb822-7f60-4d96-bb54-b551973b174f
+–
+java:S3012›"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¼îìØJ$754ef4cd-5d8a-496a-9fac-a6272c6953ef
+_
+java:S1659¢""Declare "temp" on a separate line.(·£öùJ$ccfe7b5d-d908-4068-b058-abe2c01ed60b
+a
+java:S1659·"Declare "j" on a separate line.(á”æåşÿÿÿÿJ$11d65f2a-6c80-4a99-b6d6-a695e13e69fc
+g	java:S106º"+Replace this use of System.out by a logger.(ßİÓäJ$484bf76d-8c45-44ef-aa4a-222f769efb34
+g	java:S106¼"+Replace this use of System.out by a logger.(‰À…¥J$bc9b0a1c-7cd5-427b-9411-7af27d0a3b7f
+l	java:S106¾"+Replace this use of System.out by a logger.(şé§ÅşÿÿÿÿJ$8ab1aeef-e9bc-40f9-aa50-fd7304b17804
+l	java:S106Í"+Replace this use of System.out by a logger.(‘Ä¸ÉùÿÿÿÿJ$685d8c50-359a-49e9-a02c-aaf40c350ef1
+l
+java:S1197×"*Move the array designators [] to the type.(ÀŒçŠüÿÿÿÿJ$593ee2a2-4b3c-41f8-b4e1-e2aedb88f2bb
+l	java:S106â"+Replace this use of System.out by a logger.(Ö­ƒóüÿÿÿÿJ$5a18fa60-9f8d-427a-a9df-6a24f51e6ea9
+l
+java:S1197ä"*Move the array designators [] to the type.(ğñ«ıùÿÿÿÿJ$9eb9d676-fcd9-4fd9-9c10-3002f746295d
+a
+java:S1659ò"Declare "j" on a separate line.(á”æåşÿÿÿÿJ$bbf4bcb7-dae5-4a5a-ae0e-5771e8cbb836
+}	java:S125ó"<This block of commented-out lines of code should be removed.(ßÓÈüÿÿÿÿJ$2fa15d9a-3675-4c37-bb9e-973d25c31b00
+g	java:S106õ"+Replace this use of System.out by a logger.(ßİÓäJ$8bfca58c-df72-4ca8-97a8-65a9f970f326
+g	java:S106÷"+Replace this use of System.out by a logger.(‰À…¥J$bafc7e91-656c-4a39-80b5-12c6a06c43c6
+}	java:S125‚"<This block of commented-out lines of code should be removed.(ßÓÈüÿÿÿÿJ$a351720f-dd3b-4889-a16f-a240612ea2a3
+l	java:S106„"+Replace this use of System.out by a logger.(Äô±™úÿÿÿÿJ$1d8eadbd-28ce-4d2b-a13b-e03023a155ad
+”
+java:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÚÕ’ıÿÿÿÿJ$2673c112-6b0b-476e-8926-92defc6cad68
+x	java:S125"<This block of commented-out lines of code should be removed.(Â€¨ŞJ$48d63d10-e8bd-484a-b6a8-ae3ec8c76dbe
+g	java:S106"+Replace this use of System.out by a logger.(ßİÓäJ$b9bc581f-d80e-43d3-a190-7d8740468102
+l	java:S106“"+Replace this use of System.out by a logger.(é©Ñ¥úÿÿÿÿJ$ff829d37-f077-4074-b8d1-4d3b246b4ea9
+l	java:S106•"+Replace this use of System.out by a logger.(°§ÄÎúÿÿÿÿJ$71dccd34-29a2-419e-9fdb-35d7ce5a4fb7
+l	java:S106 "+Replace this use of System.out by a logger.(é©Ñ¥úÿÿÿÿJ$8df22b3c-85cf-4c50-94ca-56dfd46a0b10
+l	java:S106¢"+Replace this use of System.out by a logger.(°§ÄÎúÿÿÿÿJ$f967569c-f129-49f3-9f80-d7674e740421
+m
+java:S1144n"1Remove this unused private "countIslands" method.(Œ­«ßJ$3a205cb6-5728-4436-b090-7f8d80ee63fb
+g
+java:S1144"*Remove this unused private "print" method.(œÀ ÄJ$3efd41a9-6434-49ea-8371-bb702b70a089
+
+java:S1144Õ"=Remove this unused private "removeDuplicatesUnsorted" method.(§“Û·üÿÿÿÿJ$2cb9239b-6407-4759-8d45-8f050e3afc50
+}
+java:S1144ï";Remove this unused private "removeDuplicatesSorted" method.(ƒê¬ñşÿÿÿÿJ$692d9a31-d209-4a86-84f8-b851d8e579cb

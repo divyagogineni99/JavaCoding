@@ -1,0 +1,18 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İ˜ÚğJ$944f97fa-a736-45f4-9b66-30dcd55df431
+r	java:S106
+"+Replace this use of System.out by a logger.(²—Æğüÿÿÿÿ8Á¹Éıˆ2J$02c9c003-ff2c-49bb-a6cd-45b74194a741
+m	java:S106"+Replace this use of System.out by a logger.(†ÚŒü8Á¹Éıˆ2J$068111de-ae19-4321-b02a-f60e8f374e84
+r	java:S106"+Replace this use of System.out by a logger.(œœÒÕûÿÿÿÿ8Á¹Éıˆ2J$3a0aaee5-b44c-42f2-8a8b-06686b5859ef
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Á¹Éıˆ2J$fb29bda5-ea54-464e-814a-eed979f4b85e
+m	java:S106"+Replace this use of System.out by a logger.(Ó·å8Á¹Éıˆ2J$f5854007-8d99-4d61-afda-db710d88678f
+r	java:S106"+Replace this use of System.out by a logger.(›Ğ…Èùÿÿÿÿ8Â¹Éıˆ2J$4da45e77-4135-426a-94de-5bf7a099f641
+m	java:S106"+Replace this use of System.out by a logger.(½Òƒ¾8Â¹Éıˆ2J$00c6dcb8-af6b-4c13-83c0-dbd0104f93cb
+r	java:S106"+Replace this use of System.out by a logger.(ÿâÚÿÿÿÿÿÿ8Â¹Éıˆ2J$bba4be09-7ccc-4308-a42f-b99b1b8bc22d
+”
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.( ïşÇ8ñÓÒıˆ2J$a3073ec2-07b1-4f18-9f4f-533a715c0e66
+m	java:S106"+Replace this use of System.out by a logger.( ïşÇ8Ğ¹Éıˆ2J$7fee8e9f-5f54-4ea2-8554-c57e885eeb1e
+”
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Èº”´8ŸùÔıˆ2J$8b6cec8c-78dc-4301-b637-88902c7a63b6
+m	java:S106"+Replace this use of System.out by a logger.(Èº”´8Ğ¹Éıˆ2J$20a6f573-a658-4986-8dff-590adda5c2a0
+l	java:S106"+Replace this use of System.out by a logger.(ûÊ<8Ñ¹Éıˆ2J$086af135-6fc9-4638-aef2-e34cbb885372

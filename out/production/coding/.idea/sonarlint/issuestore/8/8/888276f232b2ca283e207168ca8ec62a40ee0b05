@@ -1,0 +1,16 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ý˜Úð8¢˜ªñ‚2J$a40461ba-9c73-4325-bfc7-ad8216e0aff0
+‚
+java:S1854
+":Remove this useless assignment to local variable "vowels".(€â©çüÿÿÿÿ8µ˜ªñ‚2J$14ba999a-86ec-43a0-b40e-6ce85d24fb27
+r
+java:S1197"*Move the array designators [] to the type.(¡þÏÖøÿÿÿÿ8‚™ªñ‚2J$413f7f5a-940f-4dc8-9337-0fdd87dff67d
+t
+java:S1481",Remove this unused "letters" local variable.(êë´»ýÿÿÿÿ8Š™ªñ‚2J$a556c944-ca11-45d3-81d1-867365889ecb
+s
+java:S1481
+"+Remove this unused "vowels" local variable.(€â©çüÿÿÿÿ8Œ™ªñ‚2J$55b05f64-61da-4598-8746-b4c4d684e861
+m	java:S106"+Replace this use of System.out by a logger.(ÿ§·ã8’™ªñ‚2J$9f3e8d97-c7e1-4619-b78f-8d9fd1c41570
+m	java:S106*"+Replace this use of System.out by a logger.(ïîÝ³8…Á«ñ‚2J$a1d0e148-e76f-4997-b0f4-b17bafed0eda
+m	java:S106."+Replace this use of System.out by a logger.(þÀäþ8‡Á«ñ‚2J$e7e3e575-e7e3-433c-947e-d69bafc45d1e
+r	java:S1060"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8‡Á«ñ‚2J$994c5f3d-afa0-4d8d-83c5-714ccb32cf31

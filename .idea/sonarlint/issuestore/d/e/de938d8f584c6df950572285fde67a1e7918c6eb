@@ -1,0 +1,43 @@
+
+¡
+java:S2293v"YReplace the type specification in this constructor call with the diamond operator ("<>").(–™Üşÿÿÿÿ8÷¢â‚2J$75a972c9-8a61-4dfe-87a8-119091ecc6ec
+†
+java:S2259¦"BA "NullPointerException" could be thrown; "head" is nullable here.(±àÑÿ8İ÷¢â‚2J$7c3dd792-d7b0-43e0-aa4a-87789519e570
+r	java:S106+"+Replace this use of System.out by a logger.(¦™…Œúÿÿÿÿ8ï÷¢â‚2J$3873e07a-8464-4650-a530-dc71faa6a214
+m	java:S106,"+Replace this use of System.out by a logger.(ÄŞÙ8†ø¢â‚2J$fc8540d1-5dbe-4ec1-9a05-f2908ff87f71
+~	java:S125."<This block of commented-out lines of code should be removed.(”Ôîş8í÷¢â‚2J$50c64324-a155-4423-a414-a7bb548932e3
+ƒ	java:S1250"<This block of commented-out lines of code should be removed.(¥÷éôûÿÿÿÿ8†¬¤â‚2J$b9e69ac8-51f9-4046-846c-95414b1ba627
+ƒ	java:S1253"<This block of commented-out lines of code should be removed.(ù€ûÌûÿÿÿÿ8í÷¢â‚2J$3254ee6a-2856-4829-ace3-67780c5bc148
+ƒ	java:S1256"<This block of commented-out lines of code should be removed.(Ğ­Õ•ûÿÿÿÿ8í÷¢â‚2J$9b7a722d-6872-443a-953b-2384998d3ec1
+}	java:S1259"<This block of commented-out lines of code should be removed.(¦š©T8í÷¢â‚2J$a9a905b4-1044-40f2-9a99-aa8610129c92
+m	java:S106A"+Replace this use of System.out by a logger.(²™É‡8†ø¢â‚2J$22228360-3d20-452f-a9b5-a7afcf3453c6
+m	java:S106I"+Replace this use of System.out by a logger.(²™É‡8‡ø¢â‚2J$2634c153-2acc-451f-9212-1a8ba6990960
+y
+java:S2696O"6Make the enclosing method "static" or remove this set.(¶í”­8ø÷¢â‚2J$785b85c8-42dd-4c6d-b9ac-2eae3b60f01e
+y
+java:S2696O"6Make the enclosing method "static" or remove this set.(¶í”­8ù÷¢â‚2J$444c6840-2346-4901-9b9f-ce6397467711
+~
+java:S2696R"6Make the enclosing method "static" or remove this set.(×¡ó”úÿÿÿÿ8ù÷¢â‚2J$231b65a8-f930-4a61-ad9d-f415548e18c3
+n
+java:S1172X"+Remove this unused method parameter "name".(øÓÚÉ8û÷¢â‚2J$c7553278-0dc1-4f7d-9561-6f685adc5b8f
+~	java:S125Y"<This block of commented-out lines of code should be removed.(´ŞÅ‹8û÷¢â‚2J$f48915af-9ea8-4a49-8346-fdba6571dc51
+s
+java:S1172u"+Remove this unused method parameter "name".(¨á¦¶øÿÿÿÿ8ü÷¢â‚2J$86321ccc-4ecd-4fcf-9c7c-4264e7979947
+ƒ	java:S125g"<This block of commented-out lines of code should be removed.(¼ª™Úşÿÿÿÿ8ı÷¢â‚2J$104ac042-ed1b-41de-bbc0-825363930fb6
+–
+java:S3776™"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(š°Ğ‘8…ø¢â‚2J$53548827-47a4-47cd-95ef-36028a4cb7b5
+s	java:S106œ"+Replace this use of System.out by a logger.(ş¨ûşÿÿÿÿ8Šø¢â‚2J$72e45bb4-8bca-45b5-86c6-51720dd1cb8e
+
+java:S2696 "6Make the enclosing method "static" or remove this set.(€ÿ±×üÿÿÿÿ8†ø¢â‚2J$35cd04d4-d0f0-46ea-9cb7-70600b1d1eb6
+
+java:S2696 "6Make the enclosing method "static" or remove this set.(€ÿ±×üÿÿÿÿ8†ø¢â‚2J$0d9809bc-5ed5-4671-affc-0ffc227aca7e
+s	java:S106¢"+Replace this use of System.out by a logger.(˜¡À™ùÿÿÿÿ8Šø¢â‚2J$912311da-ad52-470c-a20a-34c46432d31c
+
+java:S2696§"6Make the enclosing method "static" or remove this set.(‘¡–òùÿÿÿÿ8‡ø¢â‚2J$f7053843-6570-4e2a-8193-20e4d089066e
+
+java:S2696«"6Make the enclosing method "static" or remove this set.(†úÑ‡ÿÿÿÿÿ8‡ø¢â‚2J$df792a1b-3c2c-40b5-9f49-c3aedd89f7a2
+s	java:S106°"+Replace this use of System.out by a logger.(˜¡À™ùÿÿÿÿ8¾Õ£â‚2J$446fff3d-713b-458d-9d40-ac935181000f
+n	java:S106½"+Replace this use of System.out by a logger.(Ïöüµ8ø“Óæ‚2J$25e9c746-7837-45f2-8b86-a34eca0c73c1
+m	java:S106¿"+Replace this use of System.out by a logger.(˜¯‹h8ù“Óæ‚2J$856ddc98-647e-42cd-8242-aa7d01f74856
+m
+java:S1144º"*Remove this unused private "print" method.(ªõ·a8‹ø¢â‚2J$cc1b0fef-22ac-43e6-8ede-825712bafe06

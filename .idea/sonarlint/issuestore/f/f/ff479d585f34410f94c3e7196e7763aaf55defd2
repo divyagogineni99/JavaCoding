@@ -1,0 +1,43 @@
+
+”
+java:S11928"QDefine a constant instead of duplicating this literal "rest of the code" 3 times.(øæ§í8Şƒ“¤‘2J$bb6a311c-b424-47a2-81ef-b527263321bd
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·Œ’ıÿÿÿÿ8§§Å ‘2J$aa21e1e0-d7f1-49ec-8173-4183eb2790d6
+z
+java:S3518"7Make sure "b" can't be zero before doing this division.(íÉÌ«8™Î•¤‘2J$a049583e-b535-4846-9610-83b5dc0e313c
+x
+java:S1854"5Remove this useless assignment to local variable "c".(íÉÌ«8ßîÇ ‘2J$e5f5105d-5682-47ba-a47f-afdef4886c4a
+{
+java:S1854 "8Remove this useless assignment to local variable "data".(¨íµÏ8Ï„¤‘2J$385a543d-0058-43ee-aaaa-eff1ad8796e6
+
+java:S18545"9Remove this useless assignment to local variable "data2".(é±—îûÿÿÿÿ8˜ƒ‹¤‘2J$2aac06d4-7971-45c1-9a15-16f35b6886d6
+|
+java:S1854."9Remove this useless assignment to local variable "data1".(šÇŸ¢8˜ƒ‹¤‘2J$9b4e82c1-cc7c-49ba-89d6-eadb33e2a12c
+
+java:S1854@"9Remove this useless assignment to local variable "data3".(¢ÅÜ¿şÿÿÿÿ8ãµ¤‘2J$393b86ad-1c30-49cb-ad80-da00c1d3828f
+†
+java:S1659">Declare "b" and all following declarations on a separate line.(û¸„ûÿÿÿÿ8«§Å ‘2J$5d2f9791-5f24-4b05-b1b3-27549e2bed49
+n
+java:S1481"&Remove this unused "c" local variable.(û¸„ûÿÿÿÿ8Ê—Ç ‘2J$367b1324-5dd4-49a5-ac7f-c096b34b9615
+r	java:S106"+Replace this use of System.out by a logger.(Ôÿş‘ÿÿÿÿÿ8­§Å ‘2J$70a84879-040f-4fba-b280-7ebe25bf000f
+m	java:S106"+Replace this use of System.out by a logger.(¬©«Ê8­§Å ‘2J$9f1256c3-9ade-47ac-8758-c28da348d975
+l	java:S106"+Replace this use of System.out by a logger.(‘Ì{8®§Å ‘2J$965b43fd-f5e9-4657-8c50-ffa47c57bb6c
+r	java:S106"+Replace this use of System.out by a logger.(€µŸËúÿÿÿÿ8ÛÓÅ ‘2J$759fada1-6511-45e8-97ae-3b10503a5f41
+q
+java:S1481")Remove this unused "data" local variable.(¨ç€‚ûÿÿÿÿ8“Ï„¤‘2J$af95539b-d52a-492e-8989-8ece906f564b
+r	java:S106&"+Replace this use of System.out by a logger.(Á–‚­ûÿÿÿÿ8“Ï„¤‘2J$e64abc6f-4954-4f4e-bb5f-8c29fbd9680d
+m
+java:S1481."*Remove this unused "data1" local variable.(šÇŸ¢8œƒ‹¤‘2J$a9e6654a-d55d-40e8-a6cb-ac85bae73513
+r
+java:S14815"*Remove this unused "data2" local variable.(é±—îûÿÿÿÿ8œƒ‹¤‘2J$c83bcf98-8380-4e7a-87a0-9613e649db29
+m	java:S1068"+Replace this use of System.out by a logger.(øæ§í8ƒ‹¤‘2J$8392d29c-0969-48e7-abe8-7f13363a9de6
+r
+java:S1481@"*Remove this unused "data3" local variable.(¢ÅÜ¿şÿÿÿÿ8µ§¤‘2J$786663dc-18d0-4f78-a5bc-8acd7712e0a9
+r	java:S106F"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8çµ¤‘2J$4eb55d16-e854-4d1b-9b79-8ada8556fe59
+m	java:S106H"+Replace this use of System.out by a logger.(øæ§í8çµ¤‘2J$03b8f17b-63cf-489a-aa54-c4031531e6e1
+m
+java:S1197O"*Move the array designators [] to the type.(ˆ¾ú8èƒ“¤‘2J$bf5dc18e-8e8e-4ef9-8517-5a449465fa1f
+r	java:S106P"+Replace this use of System.out by a logger.(¿šÇ­ûÿÿÿÿ8èƒ“¤‘2J$4737afc2-51a4-4dfb-ad84-41882aea2550
+r	java:S106U"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8éƒ“¤‘2J$31cc0a05-1df5-49c2-a799-59aea6bff83b
+m	java:S106W"+Replace this use of System.out by a logger.(øæ§í8éƒ“¤‘2J$04343bcd-7476-4a90-9931-ba381577495d
+r	java:S106e"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8–ñ”¤‘2J$758ac8ea-a493-4d4a-8a82-0a225af3ab6b
+r	java:S106g"+Replace this use of System.out by a logger.(“£Èúÿÿÿÿ8–ñ”¤‘2J$d7ac7b9a-066d-4eb3-adab-85b633ea01ad

@@ -1,0 +1,11 @@
+
+š
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬¯ìûÿÿÿÿJ$c72a5b1b-a70a-40d5-a06d-3e9015ce531d
+‘
+java:S1149*"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¬¯ìûÿÿÿÿJ$41952271-f13b-4e71-82cc-dfbf4581a018
+y
+java:S11179"8Rename "value" which hides the field declared at line 7.(ĞÃ‰ıÿÿÿÿJ$cfa109f6-762c-4465-86c1-0c4c04e64cb7
+k	java:S106:"+Replace this use of System.out by a logger.(‚é€ŞûÿÿÿÿJ$88c59b66-f4f7-4440-b88d-e480f1235589
+y
+java:S1117O"8Rename "value" which hides the field declared at line 7.(ĞÃ‰ıÿÿÿÿJ$e80bc3a2-f8bf-49b3-b888-4c8e7cabd404
+k	java:S106P"+Replace this use of System.out by a logger.(‚é€ŞûÿÿÿÿJ$2c471ef1-baee-4f48-a1fc-97a3e2a1c4f1

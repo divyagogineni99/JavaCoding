@@ -1,0 +1,45 @@
+
+¯
+java:S1192"gDefine a constant instead of duplicating this literal "ArrayIndexOutOfBounds Exception occurs" 4 times.(ç¿‘Üÿÿÿÿÿ8ó¯û«‘2J$a19a0b2c-6a1c-4301-bd1a-3ab3a6a478d5
+Ÿ
+java:S1192
+"\Define a constant instead of duplicating this literal "Arithmetic Exception occurs" 4 times.(ï‚¸¸8ó¯û«‘2J$933137b2-32f2-4392-a826-4f4b3f901337
+ 
+java:S1192"XDefine a constant instead of duplicating this literal "Parent Exception occurs" 4 times.(—€Šüÿÿÿÿ8ó¯û«‘2J$4f738212-b71e-4a63-93cb-9f99d16bd8f0
+”
+java:S1192"QDefine a constant instead of duplicating this literal "rest of the code" 4 times.(øæ§í8ó¯û«‘2J$8623cc3c-ac23-4a37-acfa-b8200985542b
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·Œ’ıÿÿÿÿ8ô¯û«‘2J$38d2e5c7-2206-4544-b474-309d934a18cb
+†
+java:S3518"CMake sure this expression can't be zero before doing this division.(›íÄ8ö¯û«‘2J$b2bd04c8-8753-496d-bb06-4a4dcc69a455
+r
+java:S1197"*Move the array designators [] to the type.(«„ğŞúÿÿÿÿ8ø¯û«‘2J$0115eda0-efa7-4049-908f-ec7b2471f870
+m	java:S106
+"+Replace this use of System.out by a logger.(ï‚¸¸8ù¯û«‘2J$24dd5ad3-c694-4a39-a046-6a4eeb0b1729
+r	java:S106"+Replace this use of System.out by a logger.(ç¿‘Üÿÿÿÿÿ8ù¯û«‘2J$ab90ffe5-05c7-4afd-a16f-19733eacf9ac
+r	java:S106"+Replace this use of System.out by a logger.(—€Šüÿÿÿÿ8ù¯û«‘2J$243996bf-83c7-49b0-b3e3-56dbe4270b3e
+m	java:S106"+Replace this use of System.out by a logger.(øæ§í8ù¯û«‘2J$e062823e-9d96-48bf-b065-7cf40ff55f69
+r
+java:S1197"*Move the array designators [] to the type.(«„ğŞúÿÿÿÿ8ù¯û«‘2J$45f1f941-cf28-43bd-ab0a-c4c40ea9540b
+r	java:S106"+Replace this use of System.out by a logger.(àØùØşÿÿÿÿ8ù¯û«‘2J$7dd22536-a4cd-4f55-b6e4-6c2ff1202bd0
+m	java:S106"+Replace this use of System.out by a logger.(ï‚¸¸8ù¯û«‘2J$04130c1f-b633-41b8-a74f-88ae9cf79363
+r	java:S106!"+Replace this use of System.out by a logger.(ç¿‘Üÿÿÿÿÿ8ú¯û«‘2J$593d1824-d625-402d-b5af-c226b4042bdc
+r	java:S106%"+Replace this use of System.out by a logger.(—€Šüÿÿÿÿ8ú¯û«‘2J$7e925e93-0236-4113-a8a4-a34acec3be72
+m	java:S106'"+Replace this use of System.out by a logger.(øæ§í8ú¯û«‘2J$072eae8c-8c1d-4c82-a211-bbdefad13eb8
+r
+java:S11970"*Move the array designators [] to the type.(«„ğŞúÿÿÿÿ8ú¯û«‘2J$763a4d99-0a2e-447e-a977-032e9a6ba610
+r	java:S1062"+Replace this use of System.out by a logger.(àØùØşÿÿÿÿ8ú¯û«‘2J$c05a0c82-ea5e-4858-aba7-e820415e7cb9
+m	java:S1066"+Replace this use of System.out by a logger.(ï‚¸¸8ú¯û«‘2J$6b2e4b31-7087-4db9-a99f-f4fa4a6548d4
+r	java:S106:"+Replace this use of System.out by a logger.(ç¿‘Üÿÿÿÿÿ8ú¯û«‘2J$7455caa7-d187-4e05-98fd-a3c6dd47cfd5
+r	java:S106>"+Replace this use of System.out by a logger.(—€Šüÿÿÿÿ8ú¯û«‘2J$9c219b05-e864-496d-a50a-bf6ef60257c2
+m	java:S106@"+Replace this use of System.out by a logger.(øæ§í8û¯û«‘2J$e56a63a9-a5aa-4869-add9-d88e53e6763a
+r	java:S106I"+Replace this use of System.out by a logger.( ïßøÿÿÿÿ8û¯û«‘2J$d7a9b693-0415-447f-9173-66148eca2da4
+m	java:S106M"+Replace this use of System.out by a logger.(ï‚¸¸8û¯û«‘2J$8bc0c32c-7f86-4971-a91e-b952daa1719f
+r	java:S106Q"+Replace this use of System.out by a logger.(ç¿‘Üÿÿÿÿÿ8û¯û«‘2J$973544da-9374-4739-9da1-5abdccb6474a
+r	java:S106U"+Replace this use of System.out by a logger.(—€Šüÿÿÿÿ8û¯û«‘2J$6b111fcf-0f24-4ea1-8524-13fa07c22d01
+m	java:S106W"+Replace this use of System.out by a logger.(øæ§í8û¯û«‘2J$4c84265b-b6b9-4920-9e60-0e0001fb3450
+r
+java:S1197_"*Move the array designators [] to the type.(«„ğŞúÿÿÿÿ8û¯û«‘2J$1e93538b-717a-40cc-8612-f1e5744b50d3
+l	java:S106b"+Replace this use of System.out by a logger.(³ˆ’	8ü¯û«‘2J$87bd28fa-4e58-467a-984a-e3c0ab5d7c2d
+r	java:S106i"+Replace this use of System.out by a logger.(ˆ¦ú±ÿÿÿÿÿ8ü¯û«‘2J$b9fd5bee-a3ce-4685-a1c0-25dd0a0d9c31
+~	java:S125d"<This block of commented-out lines of code should be removed.(® ÉĞ8ü¯û«‘2J$c436c8c4-23c1-40d0-8eec-9af29087b5a2
+~	java:S125m"<This block of commented-out lines of code should be removed.(ÿó÷Ù8ü¯û«‘2J$39900a6b-0c6c-4e2c-8748-9c7dcb67f7e5
